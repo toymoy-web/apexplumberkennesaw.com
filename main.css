@@ -178,6 +178,7 @@ footer{background:#fff;border-top:1px solid var(--line);padding:44px 0 100px;fon
 /* utility classes replacing repeated one-off inline styles */
 .link-plain{text-decoration:none;color:var(--ink)}
 .span-4{grid-column:span 4}
+.span-3{grid-column:span 3}
 .rows-auto{grid-auto-rows:auto}
 .footer-addr{color:var(--gray);font-size:13.5px;max-width:36ch}
 .fg-label-brand{font-weight:800;font-size:14px;text-transform:none;letter-spacing:normal;color:var(--ink)}
