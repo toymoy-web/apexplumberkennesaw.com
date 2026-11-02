@@ -271,3 +271,8 @@ main p+p{margin-top:14px}
 .bentowrap{padding-top:32px}
 @media(max-width:900px){.hero2{padding:52px 0 48px}.hero2-grid{grid-template-columns:minmax(0,1fr);gap:28px}}
 @media(max-width:560px){.hero2-cta .btn,.ctabar-btns .btn{width:100%;justify-content:center}.hero2-cta .btn.outline{width:auto;flex:1 1 calc(50% - 6px);padding:13px 10px;font-size:15px;text-align:center}.hero2-cta .btn:first-child{flex:1 1 100%}.ctabar-btns{width:100%}.hc-phone{font-size:25px}}
+
+.footsocial{margin-top:16px}
+.footgrid .footsocial-links{display:flex;flex-wrap:wrap;gap:8px}
+.footgrid .footsocial-links a{display:inline-block;margin:0;padding:6px 12px;border:1px solid var(--line);border-radius:999px;font-size:12.5px;font-weight:600;color:var(--saph-d)}
+.footgrid .footsocial-links a:hover{background:#EEF2F8;color:var(--saph-d)}
